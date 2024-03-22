@@ -15,10 +15,5 @@
 GDD 작업, 시나리오 쓰고 세게관 쓰고 등등 
 
 
-# 기타 테스트
-__*게임*__</br>
-
-1. 순서가 있는 리스트
-2. 순서가 있는 리스트
 
 [마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
